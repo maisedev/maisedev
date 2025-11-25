@@ -19,7 +19,7 @@
   <h2><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00FFFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=My+Discord+Server" alt="Typing SVG" /></h2>
   <p>
     <a href="https://discord.gg/atsizyazilim" target="_blank">
-      <img src="https://api.weblutions.com/discord/invite/mCvZDcZAdb" alt="Discord Server Banner">
+      <img src="https://api.weblutions.com/discord/invite/atsizyazilim" alt="Discord Server Banner">
     </a>
   </p>
 
